@@ -1,0 +1,10 @@
+lista = ["Python", "Java", "C", "Pascal", "PHP"]
+print(lista)
+print(lista[0])
+print(lista[4])
+print(len(lista))
+lista.insert(0, "JavaScript") 
+print(lista)
+lista.remove("Pascal")
+print(lista)
+print (len(lista))

@@ -1,0 +1,7 @@
+print("Escreva dois valores e pressione enter: ")
+x = input(' valor 1 : ')
+y = input(" valor 2 : ")
+print(x, y)
+print(x + y)
+print(float(x) + int(y))
+print(int(x)+ float(y))
