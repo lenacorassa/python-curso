@@ -1,2 +1,2 @@
-for c in range (100, 0-1,-1):
+for c in range (0, 110,+10):
    print(c)

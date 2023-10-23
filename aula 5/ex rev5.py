@@ -1,4 +1,4 @@
-n=int(input("digte:"))
+n=int(input("digite:"))
 menor=n
 maior=n
 while n!=-1:
